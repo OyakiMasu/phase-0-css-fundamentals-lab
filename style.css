@@ -3,3 +3,43 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+  color: red;
+  font-size: medium;
+}
+
+/*nav:link{
+  text-align: center;
+  */
+
+nav {
+    text-align: center;
+    padding: 10px;
+    nav-left: 10px;
+    nav-right: 10px;
+    background-color: grey;
+}
+
+img { 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  
+}
+* {
+  text-align: center;
+  font-size: small;
+}
+
+figcaption {
+  font-size:x-small;
+}
+
+p #featured-property{
+  width: 800px;
+  text-align: center;
+   
+}
+<p featured-property="">I'm wide and centred</p>
